@@ -1,2 +1,4 @@
 # datascience-bootcamp-projects-time-series
-Project 13: Time Series Analysis
+**Project Structure:** This project was completed for TripleTen's Data Science Program. Project 13: Time Series Analysis. <br>
+**Task:** Develop and assess a model to predict the amount of taxi orders for the next hour in order to attract more drivers during peak hours. <br> 
+**Skills** Use of time series analysis to detect trends and seasonality in cab orders using 6 months of historical taxi order data. Resample data to 1 hour. Visualized taxi order patterns over a period of 24 hours using rolling mean. Use median prediction and naive forecasting to sanity check our model. Trained a Linear Regression, Random Forest, and Decision Tree Regressor models with a training dataset. Hypertuned Random Forest model using GridSearchCV. Best model was a Linear Regression with a 19% Percentage Error Rate.
